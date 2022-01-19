@@ -1,5 +1,8 @@
 # A lsit of possible programming interview problems/ questions with their possible solutions
 
+1. Anagrams
+2. Find the first and last index of a target in a sorted array
+
 ### All ideas/ contributions welcome :)
 
 ## Helpful resources
