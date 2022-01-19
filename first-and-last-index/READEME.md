@@ -10,3 +10,7 @@ const target = 5
 ## Answer
 
 output should be [2,6]
+
+## Helpful resources
+
+- [Binary Search In JavaScript](https://www.geeksforgeeks.org/binary-search-in-javascript/)
